@@ -1,3 +1,0 @@
-# Datascience_task1_prediction_using_simple_linear_regression
-# Datascience_task1_prediction_using_simple_linear_regression
-# Datascience_task1_prediction_using_simple_linear_regression
